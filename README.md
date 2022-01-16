@@ -1,4 +1,4 @@
-# Canny-Edge-Detection
+# Canny-Edge-Contrastive-Enhanced-Detection (CECED)
 
 Edges are made up of crucial and relevant particular information and features. By employing an edge detector on an image, the amount of data that has to be processed can be reduced, and the information that is deemed less significant can be filtered. The CEED-Canny strategy combines the Local morphological contrast enhancement and the Canny edge detection in some research papers. The steps in CECED process are as follows:
 
